@@ -1,6 +1,6 @@
 "# Rpm-software-assignment" 
 
-Download python latest stable version- executable installer
+Download python latest stable version- executable installer.
 Setup environment variable of system by copy and pasting the path of python files.
 Download PyCharm IDE community version.
 Download the RPM software assignment from Github and paste the project in Pycharm.
